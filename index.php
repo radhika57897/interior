@@ -6,7 +6,7 @@ ini_set('display_errors', 0);
 $offer = "https://euphonious-souffle-660af0.netlify.app/";
 
 // Allowed countries — jahan offer dikhana hai
-$allowed = ['US', 'IN'];
+$allowed = ['US'];
 
 // IP lena
 $ip = '';
